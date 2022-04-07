@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizQCM</string>
+    <string name="question_1">Question 1</string>
+    <string name="textview">TextView</string>
+    <string name="question_2" />
+</resources>
